@@ -1,7 +1,7 @@
 # A simple Tic Tac Toe game built using React JS.
 
 Play it here
-https://fervent-albattani-a27834.netlify.app/
+https://arbazdiwan-tic-tac-toe.netlify.app/
 
 
 
